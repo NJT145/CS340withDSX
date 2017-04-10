@@ -11,3 +11,4 @@ Learning Outcomes:
  
 Textbook: Learning Spark by Holden Karau, Andy Konwinski, Patrick Wendell, and Matei Zaharia. O’Reilly 2015.	
 
+http://datascience.sehir.edu.tr
